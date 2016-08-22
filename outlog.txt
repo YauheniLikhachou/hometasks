@@ -1,0 +1,110 @@
+Snapshot1:2016-08-22-17:49:39
+CPU usage:[0.0, 0.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.05MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot2:2016-08-22-17:49:41
+CPU usage:[0.0, 0.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.05MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot3:2016-08-22-17:49:43
+CPU usage:[1.0, 5.1]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.11MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot4:2016-08-22-17:49:45
+CPU usage:[0.0, 0.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.11MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot5:2016-08-22-17:49:47
+CPU usage:[4.0, 4.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.11MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot6:2016-08-22-17:49:49
+CPU usage:[0.0, 3.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.25MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot7:2016-08-22-17:49:51
+CPU usage:[0.0, 1.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.25MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot8:2016-08-22-17:49:53
+CPU usage:[0.0, 0.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.25MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot9:2016-08-22-17:49:55
+CPU usage:[0.0, 2.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.27MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot10:2016-08-22-17:49:57
+CPU usage:[1.0, 0.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.27MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
+Snapshot11:2016-08-22-17:49:59
+CPU usage:[1.0, 0.0]%
+Memory usage: Total:17518.42MB
+Memory usage: Percent free:73.7%
+RAM usage: Percent free:34.8%
+Disk IO usage: read: 1858.15MB
+Disk IO usage: write:6595.29MB
+Network usage: sent:68.86MB
+Network usage: recieve:142.26MB
+
